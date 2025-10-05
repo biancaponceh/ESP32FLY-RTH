@@ -1,6 +1,6 @@
 # 🚀 ESP32FLY - Return to Home (RTH) System
 
-## Código para sistema de retorno automático de cohetes modelo
+## Código para sistema de retorno automático de DRONE ESP32
 
 ### 📋 Descripción
 Sistema que detecta la eyección del paracaídas y navega automáticamente al punto de lanzamiento usando ESP32 y GPS.
@@ -8,7 +8,7 @@ Sistema que detecta la eyección del paracaídas y navega automáticamente al pu
 ### 🔧 Características
 - Detección de eyección con delay de seguridad
 - Navegación RTH (Return to Home)
-- Control de paracaídas/alerones
+- Control de paracaídas
 - Telemetría en tiempo real
 - Simulación integrada
 
